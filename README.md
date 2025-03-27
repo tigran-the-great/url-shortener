@@ -13,8 +13,8 @@ Create short links, track visits, and view analytics via a clean UI.
 ## 🚀 Features
 
 - Shorten long URLs like `facebook.com` → `http://localhost:5001/abc123`
-- Auto-prepends `https://` if missing
 - Track visits and view URL stats
+- Dashboard for viewing already visited URLs
 - Copy shortened links to clipboard
 - Stylish UI with TailwindCSS
 - SQLite for lightweight and fast development
